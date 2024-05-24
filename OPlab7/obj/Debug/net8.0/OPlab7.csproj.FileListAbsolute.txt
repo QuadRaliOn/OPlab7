@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\OPlab7\OPlab7\bin\Debug\net8.0\OPlab7.exe
+C:\Users\Admin\source\repos\OPlab7\OPlab7\bin\Debug\net8.0\OPlab7.deps.json
+C:\Users\Admin\source\repos\OPlab7\OPlab7\bin\Debug\net8.0\OPlab7.runtimeconfig.json
+C:\Users\Admin\source\repos\OPlab7\OPlab7\bin\Debug\net8.0\OPlab7.dll
+C:\Users\Admin\source\repos\OPlab7\OPlab7\bin\Debug\net8.0\OPlab7.pdb
+C:\Users\Admin\source\repos\OPlab7\OPlab7\obj\Debug\net8.0\OPlab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OPlab7\OPlab7\obj\Debug\net8.0\OPlab7.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OPlab7\OPlab7\obj\Debug\net8.0\OPlab7.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OPlab7\OPlab7\obj\Debug\net8.0\OPlab7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OPlab7\OPlab7\obj\Debug\net8.0\OPlab7.dll
+C:\Users\Admin\source\repos\OPlab7\OPlab7\obj\Debug\net8.0\refint\OPlab7.dll
+C:\Users\Admin\source\repos\OPlab7\OPlab7\obj\Debug\net8.0\OPlab7.pdb
+C:\Users\Admin\source\repos\OPlab7\OPlab7\obj\Debug\net8.0\OPlab7.genruntimeconfig.cache
+C:\Users\Admin\source\repos\OPlab7\OPlab7\obj\Debug\net8.0\ref\OPlab7.dll

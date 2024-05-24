@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPlab7", "OPlab7\OPlab7.csproj", "{FD651766-2434-4A0C-B9B2-0080B04C62FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD651766-2434-4A0C-B9B2-0080B04C62FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD651766-2434-4A0C-B9B2-0080B04C62FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD651766-2434-4A0C-B9B2-0080B04C62FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD651766-2434-4A0C-B9B2-0080B04C62FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {580E1CE5-C896-49D2-BB8A-DF1BD9EF4757}
+	EndGlobalSection
+EndGlobal
